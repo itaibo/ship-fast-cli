@@ -1,0 +1,23 @@
+{
+  "name": "ship-fast",
+  "version": "1.0.0",
+  "description": "Start a project with the ShipFast boilerplate",
+  "main": "bin/ship-fast.js",
+  "bin": {
+    "ship-fast": "bin/ship-fast.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaibo/ship-fast-cli.git"
+  },
+  "keywords": [],
+  "author": "Iñigo Taibo <itaibo@hey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itaibo/ship-fast-cli/issues"
+  },
+  "homepage": "https://github.com/itaibo/ship-fast-cli#readme",
+  "files": [
+    "bin/**/*"
+  ]
+}
